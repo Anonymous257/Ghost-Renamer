@@ -2,9 +2,11 @@ class EnTrans:
     
     WRONG_VALUE_ERROR = "Invalid value entered for {} variable."
     
-    START_MSG = "Hello there,I Am Regaltos File Renamer, An Advanced File Rename Bot Made by @Regaltos_botz./n
-🔺Do /help To know About the Bot's Commands."
-     
+    START_MSG = "Hello there,I Am Regaltos File Renamer, An Advanced File Rename Bot Made by @Regaltos_botz.Do /help to know Bot's Commands.
+
+
+
+
     CANCEL_MESSAGE = "The rename has been canceled. Will be updated soon."
     
     RENAME_NO_FILTER_MATCH = "NO FILTER MATCHED ABORTING RENAME \nUsing the filters to Rename. As no name was specified. Manage your Filters using /filters."
