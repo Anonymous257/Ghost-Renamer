@@ -48,7 +48,7 @@ def add_handlers(client: Client) -> None:
 
 
 async def start_handler(client: Client, msg: Message) -> None:
-    await msg.reply(Trans.START_MSG, reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("🔰Updates Channel", url=f"https://t.me/CrazyBots_xd"),InlineKeyboardButton("🌐Developer", url=f"https://t.me/Godofwar033")]]),)
+    await msg.reply(Trans.START_MSG, reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("🔰Updates Channel", url=f"https://t.me/CrazyBots_xd"),InlineKeyboardButton("🌐Developer", url=f"https://t.me/Godofwar_033")]]),)
 
 async def rename_handler(client: Client, msg: Message) -> None:
     rep_msg = msg.reply_to_message
